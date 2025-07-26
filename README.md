@@ -21,6 +21,7 @@ Um projeto simples, responsivo e moderno para gerenciar suas entradas e saídas 
 
 - React
 - Vite
+- JavaScript
 - TailwindCSS
 - Chart.js
 - React Toastify
