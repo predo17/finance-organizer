@@ -1,6 +1,6 @@
 # Organizador de Finanças
 
-Um aplicativo simples, responsivo e moderno para controlar suas entradas e saídas financeiras. Desenvolvido com React + Vite, utilizando TailwindCSS para o estilo e `react-toastify` para notificações elegantes.
+Um projeto simples, responsivo e moderno para gerenciar suas entradas e saídas financeiras. Desenvolvido com React + Vite, utilizando TailwindCSS para o estilo e `react-toastify` para notificações elegantes.
 
 ---
 
